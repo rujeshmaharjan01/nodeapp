@@ -7,6 +7,7 @@ export default function Home() {
       <Button>
         Sign up button
       </Button>
+      <h1>test files</h1>
     </div>
   );
 }
